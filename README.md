@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tylernguyenvovn@gmail.com**
 
-- ⚡ Fun fact **Otters Hold Hands when sleeping so they don't drift apart!**
+- ⚡ Fun fact **Otters hold hands when sleeping so they don't drift apart!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
