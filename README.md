@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="center">Studying Computer Science @ Simon Fraser University</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Web Development, Mobile App Development**
+- 🌱 I’m passionate about **Machine Learning, Data Engineering, Web Development, Mobile App Development**
 
 - 📫 How to reach me **tylernguyenvovn@gmail.com**
 
