@@ -28,5 +28,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BambooShampoo&show_icons=true&theme=default" alt="BambooShampoo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tylernguyen8826&show_icons=true&theme=default" alt="tylernguyen8826" />
 </p>
